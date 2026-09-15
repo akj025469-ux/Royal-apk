@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ASHU PRO</string>
+    <string name="title_activity_main">ASHU PRO</string>
+    <string name="package_name">com.ashu.royalerp</string>
+    <string name="custom_url_scheme">com.ashu.royalerp</string>
+</resources>

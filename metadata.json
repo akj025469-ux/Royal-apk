@@ -1,0 +1,6 @@
+{
+  "name": "ROYAL ERP",
+  "description": "Production-ready Android dairy distribution ERP application for Amul milk distribution business, managing AM/PM shifts, challans, party totals, stock, and billing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

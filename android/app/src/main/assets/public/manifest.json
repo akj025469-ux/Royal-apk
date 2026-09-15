@@ -1,0 +1,23 @@
+{
+  "short_name": "ASHU PRO",
+  "name": "ASHU PRO — Royal ERP Amul Distribution",
+  "description": "Production-ready Android dairy distribution ERP application for Amul milk distribution business, managing AM/PM shifts, challans, party totals, stock, and billing.",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B1528",
+  "theme_color": "#0B1528",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}
